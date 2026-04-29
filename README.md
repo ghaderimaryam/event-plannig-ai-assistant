@@ -2,15 +2,6 @@
 
 > A conversational AI that helps customers find event vendors matching their needs and budget — built on a **Retrieval-Augmented Generation (RAG)** pipeline over a structured vendor catalog.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white" alt="Python 3.10+"/>
-  <img src="https://img.shields.io/badge/openai-gpt--4o--mini-412991?logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/langchain-0.3-1C3C3C?logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/chromadb-vector%20store-FFB000" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/gradio-ui-F97316?logo=gradio&logoColor=white" alt="Gradio"/>
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"/>
-</p>
-
 ---
 
 ##  What it does
